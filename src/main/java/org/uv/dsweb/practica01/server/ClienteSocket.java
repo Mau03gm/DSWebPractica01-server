@@ -15,10 +15,7 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- *
- * @author Sebastian
- */
+
 public class ClienteSocket extends Thread {
 
     private Socket cliente;
